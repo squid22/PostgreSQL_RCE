@@ -2,9 +2,9 @@
 import psycopg2
 
 
-RHOST = '192.168.217.47'
+RHOST = '192.168.56.47'
 RPORT = 5437
-LHOST = '192.168.49.217'
+LHOST = '192.168.49.56'
 LPORT = 80
 USER = 'postgres'
 PASSWD = 'postgres'
